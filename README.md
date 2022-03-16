@@ -48,7 +48,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-</br>
- 
-  ![Snake animation](https://github.com/eagrundy/andrew-lange13/blob/output/github-contribution-grid-snake.svg)
+<p align='center'><img src="https://github.com/andrew-lange13/andrew-lange13/blob/output/github-contribution-grid-snake.svg" /></p>
  
