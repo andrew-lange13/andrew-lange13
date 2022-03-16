@@ -50,5 +50,5 @@
 
 </br>
  
-  ![Snake animation](https://github.com/andrew-lange13/andrew-lange13/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/andrew-lange13/blob/output/github-contribution-grid-snake.svg)
  
