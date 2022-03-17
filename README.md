@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/g4211347ff7313517ecf66353b5b7af3d722d5b7417098794d56503cb5751ac5d33c09dd8f05fed8dc69121833bc68d8d5f55315f64212a32ffcbc148c6ada1671ac3e5d33b3aef3b01580a1c537ea208_1280.png" alt="cover" />
+<img width="100%" height = "250px" src="https://ik.imagekit.io/x3pwwn0wtbq/galaxy-g14a360156_1280_1M4Q6Aa5PA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647531843882" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
