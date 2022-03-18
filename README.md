@@ -3,11 +3,10 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andrew-lange13.andrew-lange13)
 
-</p>
+<img height="25em" src="https://komarev.com/ghpvc/?username=andrew-lange13" />
+ 
 <div size='20px'> Hi! My name is Andrew. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
